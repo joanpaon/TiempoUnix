@@ -32,6 +32,6 @@ public class Main {
         long tiempo = new Date().getTime();
 
         // Mensaje
-        System.out.printf("Tiempo UNIX .........: %d\n", tiempo);
+        System.out.printf("Tiempo UNIX .........: %d%n", tiempo);
     }
 }
